@@ -1,16 +1,20 @@
-## Hi there 👋
+### Merhaba, ben Ahmet! 👋
+**Software Developer
+---
 
-<!--
-**ahmetcoder55/ahmetcoder55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kendimi sürekli geliştirmeyi seven, öğrenmeye açık bir yazılım geliştiricisiyim. Kod yazmak benim için sadece bir iş değil, aynı zamanda bir tutku.
 
-Here are some ideas to get you started:
+#### 🚀 Temel Yeteneklerim ve Uzmanlık Alanlarım:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Ana Diller:** 🐍 **Python** ve 💻 **C# (C Sharp)**
+* **Veritabanı Yönetimi:** 💾 **SQL** ile veritabanlarını etkin şekilde yönetebiliyorum.
+* **Masaüstü Uygulamaları:** 🖥️ **Windows Forms App** kullanarak masaüstü uygulamaları geliştiriyorum.
+* **Veri Katmanı Teknolojisi:** **ORM Entity Framework** kullanarak veritabanı işlemlerini C# projelerimde kolayca halledebiliyorum.
+
+#### 🎯 Şu Anki Hedefim:
+
+Bilgimi sürekli pekiştirerek daha büyük ve karmaşık projelere imza atmak.
+
+---
+
+> "Öğrenmek ve kodlamak, geleceği şekillendirmektir."
