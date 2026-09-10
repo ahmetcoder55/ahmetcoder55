@@ -1,23 +1,27 @@
-### Merhaba, ben Ahmet! 
-Software Developer--Yazılım Geliştiricisi
----
+# Hi there, I'm Ahmet 👋
 
-Kendimi sürekli geliştirmeyi seven, öğrenmeye açık bir yazılım geliştiricisiyim. Kod yazmak benim için sadece bir iş değil, aynı zamanda bir tutku.
+### 🚀 Backend & Software Developer
 
-#### 🚀 Temel Yeteneklerim ve Uzmanlık Alanlarım:
-Ana Diller:  💻 C# (C Sharp)
-Veritabanı Yönetimi:** 💾SQL ile veritabanlarını etkin şekilde yönetebiliyorum.
-API Yönetimi:Asp Net COre Web Api ile Backend Sistemler Geliştiriyorum.
-Masaüstü Uygulamaları:🖥️ Windows Forms App ve Wpf App kullanarak masaüstü uygulamaları geliştiriyorum.
-Veri Katmanı Teknolojisi:ORM Entity Framework kullanarak veritabanı işlemlerini C# projelerimde kolayca halledebiliyorum.
-Web Programlama:Asp Net Core Mvc ile Web Projeleri yapıyorum.
-N Katmanlı Mimari:Kendim N-Tier Architecure Mimarisini biliyorum ve projeler geliştiriyorum.
-Tasarım Desenleri:Generic Repository ve Unit of Work Patternlerini kullanıyorum ayriyeten Dependency Injection Prensibinide projelerime uyguluyorum.
-
-#### 🎯 Şu Anki Hedefim:
-
-Bilgimi sürekli pekiştirerek daha büyük ve karmaşık projelere imza atmak.
+Kod yazmayı bir tutkudan öte, sürdürülebilir sistemler inşa etme aracı olarak gören bir yazılım geliştiricisiyim. .NET ekosistemi üzerinde mimari odaklı, katmanlı ve ölçeklenebilir backend projeleri geliştiriyorum.
 
 ---
 
-> "Öğrenmek ve kodlamak, geleceği şekillendirmektir."
+### 🛠️ Teknolojiler & Yetenekler
+
+* **Ana Dil:** C# (.NET)
+* **Backend & API:** ASP.NET Core Web API, ASP.NET Core MVC
+* **Masaüstü:** Windows Forms (WinForms), WPF
+* **Veritabanı & ORM:** SQL Server, Entity Framework Core (EF Core)
+* **Mimari & Tasarım Kalıpları:** N-Tier Architecture, Clean Architecture, CQRS
+* **Yazılım Prensipleri:** Generic Repository, Unit of Work, Dependency Injection (DI)
+
+---
+
+### 🎯 Odak Noktam & Hedeflerim
+
+* .NET mimarilerinde derinleşerek yüksek performanslı ve karmaşık sistemler geliştirmek.
+* Açık kaynak projelere katkıda bulunmak ve güncel yazılım prensiplerini uygulamak.
+
+---
+
+> *"Öğrenmek ve kodlamak, geleceği şekillendirmektir."*
