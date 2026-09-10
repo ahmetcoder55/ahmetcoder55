@@ -11,9 +11,11 @@ Kod yazmayı bir tutkudan öte, sürdürülebilir sistemler inşa etme aracı ol
 * **Ana Dil:** C# (.NET)
 * **Backend & API:** ASP.NET Core Web API, ASP.NET Core MVC
 * **Masaüstü:** Windows Forms (WinForms), WPF
-* **Veritabanı & ORM:** SQL Server, Entity Framework Core (EF Core)
+* **Veritabanı & ORM:** SQL Server,PostgreSQL,Sqlite Entity Framework Core (EF Core)
 * **Mimari & Tasarım Kalıpları:** N-Tier Architecture, Clean Architecture, CQRS
-* **Yazılım Prensipleri:** Generic Repository, Unit of Work, Dependency Injection (DI)
+* **Yazılım Prensipleri:** Generic Repository, Unit of Work, Dependency Injection (DI),MediatR
+* **Kullandığım Kütüphaneler:** AutoMapper (DTO Mapping), FluentValidation (Data Validation)
+* **Web Frontend:** HTML5, CSS3, JavaScript
 
 ---
 
