@@ -12,7 +12,7 @@ Kod yazmayı bir tutkudan öte, sürdürülebilir sistemler inşa etme aracı ol
 * **Backend & API:** ASP.NET Core Web API, ASP.NET Core MVC
 * **Masaüstü:** Windows Forms (WinForms), WPF
 * **Veritabanı & ORM:** SQL Server,PostgreSQL,Sqlite Entity Framework Core (EF Core)
-* **Mimari & Tasarım Kalıpları:** N-Tier Architecture, Clean Architecture, CQRS
+* **Mimari & Tasarım Kalıpları:** N-Tier Architecture, Clean Architecture, CQRS , Onion Architecture
 * **Yazılım Prensipleri:** Generic Repository, Unit of Work, Dependency Injection (DI),MediatR
 * **Kullandığım Kütüphaneler:** AutoMapper (DTO Mapping), FluentValidation (Data Validation)
 * **Web Frontend:** HTML5, CSS3, JavaScript
