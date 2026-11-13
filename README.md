@@ -44,7 +44,7 @@
 
 | ⚙️ Çekirdek Ekosistem | 🏛️ Mimari & Desenler | 🛠️ Veritabanı & Araçlar |
 | :---: | :---: | :---: |
-| **C# / .NET** | **Clean Architecture** | **SQL Server / PostgreSQL** |
+| **C# / .NET** | **Clean Architecture** | **SQL Server / PostgreSQL** || **Vertical Slice Architecture** |
 | **ASP.NET Core Web API** | **N-Tier & Onion** | **Entity Framework Core** |
 | **ASP.NET Core MVC** | **CQRS (MediatR)** | **SQLite / Dapper** |
 
